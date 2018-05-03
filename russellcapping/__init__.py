@@ -1,8 +1,8 @@
-from .capping import RussellCapping
+from .capping import russell_capping
 
 
 capping = [
-    'RussellCapping',
+    'russell_capping',
 ]
 
 __all__ = capping
